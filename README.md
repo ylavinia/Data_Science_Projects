@@ -6,3 +6,7 @@ This repository contains various data science projects using Spark, scikit-learn
 Spark projects are run on IBM Data Science Experience cloud as provided by IBM Bluemix.
 
 UCI Machine Learning Repository Car Evaluation Database can be found here: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+
+Thanksgiving 2015 dataset from FiveThirtyEight can be found here: https://github.com/fivethirtyeight/data/tree/master/thanksgiving-2015
+
+
